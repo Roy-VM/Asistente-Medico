@@ -1,0 +1,24 @@
+BUTTON{
+	margin-top: 2%;
+	padding: 3px 10px;
+	background: white;
+	font-weight: bolder;
+	font-size: 27px;
+	border-radius: sans-serif;
+	border: solid 4px black;
+}
+BUTTON:hover{
+	text-shadow: 1px 1px white;
+	background-color: black;
+	transition: .5%;
+}
+
+.b1:hover{
+	color: white;
+	border: solid 4px red;
+}
+body{
+	background-image: url(aaa.jpg);
+	background-repeat: no-repeat;
+	
+}
